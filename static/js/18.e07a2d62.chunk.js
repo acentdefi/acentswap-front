@@ -1,0 +1,2 @@
+(this["webpackJsonpacentswap-frontend"]=this["webpackJsonpacentswap-frontend"]||[]).push([[18],{1064:function(t,e,n){"use strict";n.r(e);n(0);var c=n(33),a=n(160),s=n(271),i=n(48),o=n(3);e.default=function(){var t=Object(i.D)(),e=t.isInitialized,n=t.isLoading;t.hasProfile,Object(c.c)().account;return Object(i.d)(),!e||n?Object(o.jsx)(s.a,{}):Object(o.jsx)(a.a,{children:"Come back soon!"})}}}]);
+//# sourceMappingURL=18.e07a2d62.chunk.js.map
