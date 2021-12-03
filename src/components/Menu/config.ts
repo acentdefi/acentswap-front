@@ -70,7 +70,7 @@ const config: MenuEntry[] = [
   {
     label: 'NFT Marketplace',
     icon: 'NftIcon',
-    href: 'https://acentdefi.github.io/acentswap-front/nft-marketplace',
+    href: '/nft-marketplace',
   },
 
   {
@@ -82,25 +82,25 @@ const config: MenuEntry[] = [
   {
     label: 'Acentchain',
     icon: 'ChainIcon',
-    href: 'https://acentdefi.github.io/acentswap-front/acentchain',
+    href: '/acentchain',
   },
 
   {
     label: 'Stocks',
     icon: 'StockIcon',
-    href: 'https://acentdefi.github.io/acentswap-front/stocks',
+    href: '/stocks',
   },
 
   {
     label: 'Supply Chain',
     icon: 'SupplyChainIcon',
-    href: 'https://acentdefi.github.io/acentswap-front/supplychain',
+    href: '/supplychain',
   },
 
   {
     label: 'Games',
     icon: 'NftIcon',
-    href: 'https://acentdefi.github.io/acentswap-front/games',
+    href: '/games',
   },
   {
     label: 'More',
